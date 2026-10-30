@@ -1,0 +1,7 @@
+Rank,Student ID,Name,Total Subjects,Average Mark,Letter Grade,GPA,Status
+1,S101,Emma Watson,4,92.62,A,3.75,PASS
+2,S106,Alexander Davis,4,86.12,B,3.25,PASS
+3,S102,Liam Smith,4,83.38,B,2.75,PASS
+4,S103,Sophia Chen,4,72.62,C,1.75,PASS
+5,S104,Noah Patel,4,62.62,D,0.75,PASS
+6,S105,Olivia Taylor,4,53.38,F,0.00,FAIL

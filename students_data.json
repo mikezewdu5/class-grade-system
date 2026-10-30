@@ -1,0 +1,206 @@
+[
+  {
+    "student_id": "S101",
+    "name": "Emma Watson",
+    "scores": {
+      "Mathematics": {
+        "subject": "Mathematics",
+        "mark": 94.5,
+        "letter_grade": "A",
+        "gpa_point": 4.0,
+        "passed": true
+      },
+      "Physics": {
+        "subject": "Physics",
+        "mark": 91.0,
+        "letter_grade": "A",
+        "gpa_point": 4.0,
+        "passed": true
+      },
+      "Chemistry": {
+        "subject": "Chemistry",
+        "mark": 89.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      },
+      "English": {
+        "subject": "English",
+        "mark": 96.0,
+        "letter_grade": "A",
+        "gpa_point": 4.0,
+        "passed": true
+      }
+    }
+  },
+  {
+    "student_id": "S102",
+    "name": "Liam Smith",
+    "scores": {
+      "Mathematics": {
+        "subject": "Mathematics",
+        "mark": 82.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      },
+      "Physics": {
+        "subject": "Physics",
+        "mark": 78.5,
+        "letter_grade": "C",
+        "gpa_point": 2.0,
+        "passed": true
+      },
+      "Chemistry": {
+        "subject": "Chemistry",
+        "mark": 85.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      },
+      "English": {
+        "subject": "English",
+        "mark": 88.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      }
+    }
+  },
+  {
+    "student_id": "S103",
+    "name": "Sophia Chen",
+    "scores": {
+      "Mathematics": {
+        "subject": "Mathematics",
+        "mark": 74.0,
+        "letter_grade": "C",
+        "gpa_point": 2.0,
+        "passed": true
+      },
+      "Physics": {
+        "subject": "Physics",
+        "mark": 71.5,
+        "letter_grade": "C",
+        "gpa_point": 2.0,
+        "passed": true
+      },
+      "Chemistry": {
+        "subject": "Chemistry",
+        "mark": 69.0,
+        "letter_grade": "D",
+        "gpa_point": 1.0,
+        "passed": true
+      },
+      "English": {
+        "subject": "English",
+        "mark": 76.0,
+        "letter_grade": "C",
+        "gpa_point": 2.0,
+        "passed": true
+      }
+    }
+  },
+  {
+    "student_id": "S104",
+    "name": "Noah Patel",
+    "scores": {
+      "Mathematics": {
+        "subject": "Mathematics",
+        "mark": 63.5,
+        "letter_grade": "D",
+        "gpa_point": 1.0,
+        "passed": true
+      },
+      "Physics": {
+        "subject": "Physics",
+        "mark": 59.0,
+        "letter_grade": "F",
+        "gpa_point": 0.0,
+        "passed": false
+      },
+      "Chemistry": {
+        "subject": "Chemistry",
+        "mark": 61.0,
+        "letter_grade": "D",
+        "gpa_point": 1.0,
+        "passed": true
+      },
+      "English": {
+        "subject": "English",
+        "mark": 67.0,
+        "letter_grade": "D",
+        "gpa_point": 1.0,
+        "passed": true
+      }
+    }
+  },
+  {
+    "student_id": "S105",
+    "name": "Olivia Taylor",
+    "scores": {
+      "Mathematics": {
+        "subject": "Mathematics",
+        "mark": 52.0,
+        "letter_grade": "F",
+        "gpa_point": 0.0,
+        "passed": false
+      },
+      "Physics": {
+        "subject": "Physics",
+        "mark": 48.0,
+        "letter_grade": "F",
+        "gpa_point": 0.0,
+        "passed": false
+      },
+      "Chemistry": {
+        "subject": "Chemistry",
+        "mark": 55.5,
+        "letter_grade": "F",
+        "gpa_point": 0.0,
+        "passed": false
+      },
+      "English": {
+        "subject": "English",
+        "mark": 58.0,
+        "letter_grade": "F",
+        "gpa_point": 0.0,
+        "passed": false
+      }
+    }
+  },
+  {
+    "student_id": "S106",
+    "name": "Alexander Davis",
+    "scores": {
+      "Mathematics": {
+        "subject": "Mathematics",
+        "mark": 88.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      },
+      "Physics": {
+        "subject": "Physics",
+        "mark": 84.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      },
+      "Chemistry": {
+        "subject": "Chemistry",
+        "mark": 90.5,
+        "letter_grade": "A",
+        "gpa_point": 4.0,
+        "passed": true
+      },
+      "English": {
+        "subject": "English",
+        "mark": 82.0,
+        "letter_grade": "B",
+        "gpa_point": 3.0,
+        "passed": true
+      }
+    }
+  }
+]
